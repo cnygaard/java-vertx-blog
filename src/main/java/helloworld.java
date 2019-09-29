@@ -2,7 +2,7 @@ import io.vertx.core.Vertx;
 import io.vertx.core.http.HttpServer;
 import io.vertx.core.http.HttpServerResponse;
 
-public class blog {
+public class helloworld {
     public static void main(String[] args) {
         Vertx vertx = Vertx.vertx();
 
